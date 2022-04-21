@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HangmanGameSln",
+    "\\HangmanGameSln\\HangmanGameSln",
+    "\\HangmanGameSln\\HangmanGameSln\\Hangman.Core",
+    "\\HangmanGameSln\\HangmanGameSln\\Hangman.Core\\Game",
+    "\\HangmanGameSln\\HangmanGameSln\\HangmanGame"
+  ],
+  "SelectedNode": "\\HangmanGameSln\\HangmanGameSln\\Hangman.Core\\Hangman.Core.csproj",
+  "PreviewInSolutionExplorer": false
+}
